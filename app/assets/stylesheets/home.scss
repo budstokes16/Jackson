@@ -1,0 +1,35 @@
+@import "bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Cute+Font&display=swap');
+
+.bbox {
+  -moz-box-shadow: 1px 1px 2px 0 #d0d0d0;
+  -webkit-box-shadow: 1px 1px 2px 0 #d0d0d0;
+  box-shadow: 1px 1px 2px 0 #d0d0d0;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
+  align: center;
+}
+
+.title {
+	font-size: 75px;
+	text-align: center;
+	color: #140a42;
+	background-image: url("img1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.sub-titles {
+	font-size: 50px;
+	color: black;
+	text-align: center;
+}
+
+body {
+	font-family: 'Cute Font', cursive;
+}
+
+.items {
+	color: black;
+}
